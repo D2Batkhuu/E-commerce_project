@@ -1,0 +1,12 @@
+{{-- <!DOCTYPE html>
+<html lang="en">
+
+
+@include('userpage.header')
+@include('userpage.svg')
+<h1>dashboard controller</h1>
+
+
+@include('userpage.script')
+@include('userpage.footer')
+</html> --}}
